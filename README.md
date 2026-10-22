@@ -1,5 +1,5 @@
 ## Hello, I am Alec
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/alec-costantini-380091220))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alec-costantini-380091220)
 ## OBJECTIVE
 
 Currently working as a fraud analyst eager to become a Tier1 security analyst, primarily within the incident response and SOC domains.
