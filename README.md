@@ -1,9 +1,11 @@
-Hello, I am Alec
+## Hello, I am Alec
 
-<!--
-**AlecCostantini/AlecCostantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## OBJECTIVE
 
-Here are some ideas to get you started:
+Currently working as a fraud analyst eager to become a Tier1 security analyst, primarily within the incident response and SOC domains.
+
+## Skills
+| SIEM Implementation and Log Analysis |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
