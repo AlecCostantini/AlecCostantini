@@ -6,9 +6,9 @@ I am currently working as a Fraud Analyst, where I leverage my analytical and in
 I intend to use this platform for hands on labs I have worked on to show a stronger understanding of security concepts and expanding on new topics.
 
 ## Skills                                       
-SIEM Implementation and Log Analysis
-MITRE Attack Framework
-Wireshark Packet Analysis
+SIEM Implementation and Log Analysis |
+MITRE Attack Framework |
+Wireshark Packet Analysis |
 Fraud Analysis and Investigations
 
 ## Tools
