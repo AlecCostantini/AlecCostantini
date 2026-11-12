@@ -2,17 +2,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alec-costantini-380091220)
 ## OBJECTIVE
 
-Currently working as a fraud analyst eager to become a Tier1 security analyst, primarily within the incident response and SOC domains.
+I am currently working as a Fraud Analyst, where I leverage my analytical and investigative skills to identify suspicious activity, assess risk, and help protect against fraudulent behavior. Through my experience, I have developed a strong foundation in threat detection, pattern recognition, and problem-solving. I am actively pursuing opportunities to transition into a Security Analyst role, where I can apply my investigative mindset and risk analysis experience to cybersecurity operations, security monitoring, and incident response. I am passionate about continuously expanding my technical knowledge and contributing to an organization's overall security posture while growing my career in the cybersecurity field.
 
-## Skills
-| SIEM Implementation and Log Analysis |
+## Skills                                       
+SIEM Implementation and Log Analysis
+MITRE Attack Framework
+Wireshark Packet Analysis
+Fraud Analysis and Investigations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
