@@ -12,9 +12,20 @@ Wireshark Packet Analysis
 Fraud Analysis and Investigations
 
 ## Tools
-Wireshark  Splunk  
-Elastic    Pindrop
-LexisNexis 
+Wireshark
+Splunk  
+Elastic
+Pindrop
+LexisNexis
+Event Viewer
+
+## Certifications
+Security +
+TryHackMe Security Analyst 1
+Google Cybersecurity
+
+## Projects
+
 
 
 
