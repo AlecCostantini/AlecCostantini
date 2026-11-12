@@ -13,15 +13,15 @@ Fraud Analysis and Investigations
 
 ## Tools
 Wireshark |
-Splunk  
-Elastic
-Pindrop
-LexisNexis
+Splunk |  
+Elastic |
+Pindrop |
+LexisNexis |
 Event Viewer
 
 ## Certifications
-Security +
-TryHackMe Security Analyst 1
+Security + |
+TryHackMe Security Analyst 1 |
 Google Cybersecurity
 
 ## Projects
