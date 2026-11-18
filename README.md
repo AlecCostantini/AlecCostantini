@@ -25,7 +25,7 @@ TryHackMe Security Analyst 1 |
 Google Cybersecurity
 
 ## Projects
-
+<a href="https://github.com/AlecCostantini/Wazuh-SIEM-Implementation-and-Analysis">Wazuh SIEM Implementation & Analysis Lab</a>
 
 
 
